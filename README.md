@@ -1,3 +1,5 @@
+> This mod has moved to https://github.com/ben-hough/lc-mods/tree/main/ShipBeacon. This repo is archived and read-only; full history was preserved there.
+
 # ShipBeacon
 
 Outdoor HUD beacon pointing toward the company ship.
